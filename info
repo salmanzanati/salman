@@ -1,0 +1,9 @@
+# npm create vite@latest agricultural-accoutent -- --template react
+# npm install @reduxjs/toolkit
+# npm install react-redux
+# npm install react-router-dom localforage match-sorter sort-by
+# npm install styled-components
+# npm install -D tailwindcss postcss autoprefixer
+# npx tailwindcss init -p
+# npm install --save @iconscout/react-unicons
+# npm install firebase
